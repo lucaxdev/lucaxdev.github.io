@@ -1,0 +1,42 @@
+.nav-item {
+    margin: 0 20px;
+}
+#navitem{
+    margin-left: 50%;
+}
+#item{
+    color: blanchedalmond;
+}
+
+#hello{
+    color: blueviolet;
+}
+#lucas{
+    margin-left: -1%;
+}
+#btnin{
+    border-color: white;
+    border-radius: 20px;
+}
+#btninn{
+    border-radius: 20px;
+    background-color: blueviolet;
+    border: none;
+}
+#terno{
+    margin-left: -38%;
+}
+#cv{
+    border-radius: 20px;
+    background-color: blueviolet;
+    border: none;
+}
+@media(max-width: 500px){
+    #img-home{display: none;}
+}
+@media(max-width: 500px){
+    #terno{display: none;}
+}
+@media(max-width: 500px){
+    #terno1{display: none;}
+}
